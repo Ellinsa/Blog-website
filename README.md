@@ -1,2 +1,2 @@
 # Blog-website
-Blog Web-site bootcamp challenge 
+Blog Web-site bootcamp ejs challenge 
